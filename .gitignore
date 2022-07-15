@@ -1,0 +1,5 @@
+/.idea/
+/learnGatling.iml
+/target/
+*.class
+*.log
